@@ -1,0 +1,30 @@
+
+body {
+    
+    background-color: rgb(249, 244, 242);
+}
+.container{
+    font-family: 'Lilita One', sans-serif;
+    color: rgb(66, 71, 71);
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: rgb(208, 208, 184);
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 0px 0px 12px 4px rgba(0, 0, 0, 0.75);
+    text-align: center;
+}
+
+#name {
+	font-weight: 700;
+	font-style: normal;
+    
+}
+
+#image {
+    border-radius: 5px;
+	border-style: hidden;
+    width: 250px;
+    height: 150px;
+}
+	
